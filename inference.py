@@ -28,6 +28,8 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import Input, Dropout, LSTM, Bidirectional, GRU, Dense, Embedding, BatchNormalization
 
+print(pickle.format_version)
+
 np.random.seed(1234)
 tf.random.set_seed(1234)
 
