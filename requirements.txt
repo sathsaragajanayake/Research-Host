@@ -11,7 +11,7 @@ matplotlib
 pandas
 seaborn
 joblib
-pickle = 3.0
+pickle<=3.0
 pprint
 re
 os
