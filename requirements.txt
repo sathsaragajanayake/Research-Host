@@ -11,8 +11,6 @@ matplotlib
 pandas
 seaborn
 joblib
-re
-os
 tqdm
 word_tokenize
 stopwords
